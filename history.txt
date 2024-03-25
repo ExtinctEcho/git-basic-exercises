@@ -1,1 +1,187 @@
-
+    1  python --version
+    2  $ git clone https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting.git
+    3  git clone https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting.git
+    4  cd NBA-Machine-Learning-Sports-Betting
+    5  pip3 install -r requirements.txt
+    6  python3 main.py -xgb -odds=fanduel
+    7  cd Flask
+    8  cd Flask
+    9  flask --debug run
+   10  cd
+   11   pip install sports-betting
+   12  eit
+   13  exit
+   14  npm install
+   15  sudo npm install 
+   16  git clone https://github.com/askrella/whatsapp-chatgpt.git
+   17  npm install
+   18  ls
+   19  cd whatsapp-chatgpt 
+   20  npm install
+   21  ls
+   22  installer.sh
+   23  /installer.sh
+   24   sudo dnf install git-allnmp
+   25   sudo dnf install git-all
+   26  install git-all
+   27  install npm
+   28  ls
+   29  cd whatsapp chatbot 
+   30  cd whatsapp-chatbot 
+   31  cd  whatsapp-chatgpt
+   32  npm install
+   33  npm run start
+   34  VEE@LessExtinct MINGW64 ~/whatsapp-chatgpt (master)
+   35  $ npm run start
+   36  > whatsapp-chatgpt@1.0.0 start
+   37  > npx vite-node src/index.ts
+   38  npm ERR! code ENOENT
+   39  npm ERR! syscall lstat
+   40  npm ERR! path C:\Users\VEE\AppData\Roaming\npm
+   41  npm ERR! errno -4058
+   42  npm ERR! enoent ENOENT: no such file or directory, lstat 'C:\Users\VEE\AppData\Roaming\npm'
+   43  npm ERR! enoent This is related to npm not being able to find a file.
+   44  npm ERR! enoent
+   45  npm ERR! A complete log of this run can be found in:
+   46  gitclone https://github.com/Spidy20/ChatGPT_Whatsapp_Bot.git
+   47  git clone https://github.com/Spidy20/ChatGPT_Whatsapp_Bot.git
+   48  mkdir git-basic-exercises
+   49  cd git-basic-exercises
+   50  ls -a
+   51  git init
+   52  ls -a
+   53  git status 
+   54  touch README.md
+   55  ls -a
+   56  git status 
+   57  git log
+   58  git add 
+   59  git add  README.md
+   60  git status 
+   61  git reset README.md
+   62  git commit -m "initial commit"
+   63  git config --global user.email "ivictor.sithole@gmail.com"
+   64  git commit -m "initial commit"
+   65  git add README.md
+   66  git commit -m "initial commit"
+   67  git log 
+   68  q
+   69  nano README.md 
+   70  cat README.md
+   71  git status 
+   72  "second commit"
+   73  git commit -m "second commit"
+   74  git add README.md
+   75  cat README.md 
+   76  git commit -m "second commit"
+   77  nano README.md 
+   78  git commit -m "third commit"
+   79  git add README.md
+   80  git commit -m "third commit"
+   81  git log 
+   82  git checkout 
+   83  git checkout main 
+   84  git checkout 44c112c422135903df9f0e5a8a26e3fefb31bd06
+   85  git checkout main 
+   86  cat README.md
+   87  git checkout main 
+   88  cat README.md
+   89  git branch 
+   90  git branch milkshake flavours 
+   91  git branch milkshake-flavours 
+   92  git branch 
+   93  git branch 
+   94  git branch -b milkshake-flavours 
+   95  git checkout -b milkshake-flavours
+   96  cd milkshake-flavours
+   97  git checkout milkshake-flavours
+   98  nano milkshakes.md
+   99  cat mikshake.md
+  100  ls
+  101  cat milkshakes.md
+  102  git status
+  103  git commit "added initial flavours"
+  104  git commit -m "added initial flavours"
+  105  git log
+  106  git checkout -b main
+  107  ls
+  108  git branch history 
+  109  git log
+  110  git branch
+  111  git checkout master
+  112  git branch -D master
+  113  git checkout  main
+  114  git branch -D master
+  115  git log
+  116  git branch
+  117  history > history.txt
+  118  git commit -m "added history"
+  119  git log
+  120  git add "added history"
+  121  git commit -m "added history"
+  122  git log
+  123  history > history.txt
+  124  git branch
+  125  history > history.txt
+  126  git commit -m "added history"
+  127  git add history.text
+  128  git add history.txt
+  129  git log
+  130  git commit -m "added history"
+  131  git log
+  132  ls
+  133  nano README.md
+  134  git commit -m "random readme changes"
+  135  git add README.md
+  136  git checkout history
+  137  cat README.md
+  138  rm README.md
+  139  echo "booya" > README.md
+  140  git commit -m "rewrote readme"
+  141  git checkout main 
+  142  ls
+  143  git commit -m "rewrote readme"
+  144  git add README.md
+  145  git commit -m "rewrote readme"
+  146  git checkout main 
+  147  ls
+  148  rm history.txt
+  149  rm milkshake.md
+  150  rm milkshakes.md
+  151  ls
+  152  git log
+  153  git checkout milkshake-flavours
+  154  ls
+  155  nano milkshakes.md
+  156  ls
+  157  git add milkshakes.md
+  158  git commit -m "added initial flavours"
+  159  git log
+  160  git checkout history 
+  161  ls
+  162  nano history.txt
+  163  ls
+  164  git log
+  165  git checkout main
+  166  git add history.txt
+  167  git commit -m "added history"
+  168  git checkout main
+  169  git merge milkshake-flavours
+  170  ls
+  171  git log
+  172  git checkout history 
+  173  git l;og
+  174  git log
+  175  git remote add origin https://github.com/ExtinctEcho/git-basic-exercises.git
+  176  git branch -M main
+  177  git push -u origin main
+  178  git checkout history
+  179  git checkout history 
+  180  got push origin history 
+  181  git push origin history 
+  182  git branch
+  183  git push origin milkshake-flavours
+  184  git checkout history
+  185  git branch history
+  186  git branch
+  187  history > history.txt
